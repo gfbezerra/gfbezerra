@@ -4,8 +4,7 @@
 
 🎓 Estudante de Engenharia de Software  
 💻 Em constante aprendizado sobre programação e desenvolvimento de software  
-🚀 Focado em construir minha carreira como Backend Developer  
-☕ Atualmente estudando C, algoritmos e lógica de programação  
+🚀 Focado em construir minha carreira como Backend Developer   
 🔜 Explorando o ecossistema Java
 
 Aqui compartilho meus estudos, projetos acadêmicos, exercícios e projetos pessoais enquanto construo minha trajetória como desenvolvedor.
