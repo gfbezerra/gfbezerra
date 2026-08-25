@@ -10,9 +10,7 @@
 Aqui compartilho meus estudos, projetos acadêmicos, exercícios e projetos pessoais enquanto construo minha trajetória como desenvolvedor.
 
 ### 👨‍💻 Atualmente estudando:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=c,python,java)
 
 ### 👇 Contate-me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gfbezerra)
